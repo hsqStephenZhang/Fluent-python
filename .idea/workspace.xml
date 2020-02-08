@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a329d423-fbf0-48a0-b83d-41d82bccd3f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="71d458d9-9517-432a-9572-1df570e4cb6f">
+    <option name="files">
+      <option value="test.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1WHu6ubmD4BcgJVfbFjWNtBtNYT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.14.4生成器函数">
+    <configuration name="13.6增量赋值运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/正确重载运算符" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正确重载运算符/13.6增量赋值运算符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14.1单词序列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/可迭代的对象-迭代器-生成器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/可迭代的对象-迭代器-生成器/14.1单词序列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14.2可迭代的对象和迭代器的对比" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/可迭代的对象-迭代器-生成器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/可迭代的对象-迭代器-生成器/14.2可迭代的对象和迭代器的对比.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14.3典型的迭代器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/可迭代的对象-迭代器-生成器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/可迭代的对象-迭代器-生成器/14.3典型的迭代器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14.4生成器函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/可迭代的对象-迭代器-生成器" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/可迭代的对象-迭代器-生成器/14.4生成器函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.14.4生成器函数" />
+        <item itemvalue="Python.14.3典型的迭代器" />
+        <item itemvalue="Python.14.2可迭代的对象和迭代器的对比" />
+        <item itemvalue="Python.14.1单词序列" />
+        <item itemvalue="Python.13.6增量赋值运算符" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a329d423-fbf0-48a0-b83d-41d82bccd3f7" name="Default Changelist" comment="" />
+      <created>1578818669999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578818669999</updated>
+      <workItem from="1578818671106" duration="7218000" />
+      <workItem from="1578835605018" duration="4000" />
+      <workItem from="1578893482802" duration="4730000" />
+      <workItem from="1578899915086" duration="7000" />
+      <workItem from="1579005263334" duration="68000" />
+      <workItem from="1579009143938" duration="4127000" />
+      <workItem from="1579041726927" duration="4730000" />
+      <workItem from="1579052615310" duration="10000" />
+      <workItem from="1579069367280" duration="469000" />
+      <workItem from="1579089078287" duration="93000" />
+      <workItem from="1579093242045" duration="1336000" />
+      <workItem from="1579225786278" duration="783000" />
+      <workItem from="1579312103460" duration="8890000" />
+      <workItem from="1579395856834" duration="2610000" />
+      <workItem from="1579399557067" duration="5000" />
+      <workItem from="1579421423134" duration="1036000" />
+      <workItem from="1579442159845" duration="5000" />
+      <workItem from="1579596672432" duration="1114000" />
+      <workItem from="1579671078056" duration="27000" />
+      <workItem from="1579685473749" duration="8726000" />
+      <workItem from="1579702133509" duration="1225000" />
+      <workItem from="1579741448667" duration="5495000" />
+      <workItem from="1579757573195" duration="3073000" />
+      <workItem from="1579822588345" duration="10179000" />
+      <workItem from="1579947263083" duration="1518000" />
+      <workItem from="1580004194741" duration="9000" />
+      <workItem from="1580025500044" duration="5837000" />
+      <workItem from="1580135762076" duration="299000" />
+      <workItem from="1580168891005" duration="436000" />
+      <workItem from="1580169337223" duration="7592000" />
+      <workItem from="1580281330140" duration="601000" />
+      <workItem from="1580293511501" duration="606000" />
+      <workItem from="1580389694247" duration="3051000" />
+      <workItem from="1580393224527" duration="8000" />
+      <workItem from="1580640387678" duration="5065000" />
+      <workItem from="1580700053718" duration="16000" />
+      <workItem from="1580734802743" duration="4043000" />
+      <workItem from="1580799790642" duration="179000" />
+      <workItem from="1580799983059" duration="369000" />
+      <workItem from="1580911629502" duration="908000" />
+      <workItem from="1580964727628" duration="6000" />
+      <workItem from="1580964829758" duration="864000" />
+      <workItem from="1580966149004" duration="10075000" />
+      <workItem from="1580990526237" duration="8000" />
+      <workItem from="1580998008896" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579751701231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="535" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579751701231" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579751575356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1579751575356" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1580990045239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580990045239" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1580990045238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580990045238" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1580990045237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580990045237" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1580990045239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580990045239" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580177641063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580177641063" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1580177641063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580177641063" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1580177641063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580177641063" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1580177641063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580177641063" />
+    <state x="191" y="96" key="SettingsEditor" timestamp="1580739979104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="191" y="96" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580739979104" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580739943481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580739943481" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/序列的修改散列和切片/10.4Vector类第二版.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="cls" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Fluent_python$8_42.coverage" NAME="8.4函数的参数作为引用时2 Coverage Results" MODIFIED="1579759007694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/对象引用-可变性-垃圾回收" />
+    <SUITE FILE_PATH="coverage/Fluent_python$7_3.coverage" NAME="7.3使用装饰器改进策略模式 Coverage Results" MODIFIED="1579693471035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Fluent_python$8_1.coverage" NAME="8.1变量不是盒子 Coverage Results" MODIFIED="1579750064992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/对象引用-可变性-垃圾回收" />
+    <SUITE FILE_PATH="coverage/Fluent_python$2_9.coverage" NAME="2.9当列表不是首选时 Coverage Results" MODIFIED="1579947627429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/Fluent_python$11_5.coverage" NAME="11.5定义抽象基类的子类 Coverage Results" MODIFIED="1580641930157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口-从协议到抽象基类" />
+    <SUITE FILE_PATH="coverage/Fluent_python$15_2with.coverage" NAME="15.2上下文管理器和with块 Coverage Results" MODIFIED="1579691539672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/上下文管理器和else块" />
+    <SUITE FILE_PATH="coverage/Fluent_python$3_2.coverage" NAME="3.2字典推导式 Coverage Results" MODIFIED="1579331199158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典和集合" />
+    <SUITE FILE_PATH="coverage/Fluent_python$7_5.coverage" NAME="7.5闭包 Coverage Results" MODIFIED="1579695245667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Fluent_python$5_1.coverage" NAME="5.1函数作为对象 Coverage Results" MODIFIED="1579332117198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/一等函数" />
+    <SUITE FILE_PATH="coverage/Fluent_python$8_5del.coverage" NAME="8.5del和垃圾回收 Coverage Results" MODIFIED="1579759577628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/对象引用-可变性-垃圾回收" />
+    <SUITE FILE_PATH="coverage/Fluent_python$7_2Python.coverage" NAME="7.2Python执行装饰器的时间 Coverage Results" MODIFIED="1579693133313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Fluent_python$8_3.coverage" NAME="8.3默认做浅复制 Coverage Results" MODIFIED="1580169349864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/对象引用-可变性-垃圾回收" />
+    <SUITE FILE_PATH="coverage/Fluent_python$14_2.coverage" NAME="14.2可迭代的对象和迭代器的对比 Coverage Results" MODIFIED="1580989455555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可迭代的对象-迭代器-生成器" />
+    <SUITE FILE_PATH="coverage/Fluent_python$8_2__.coverage" NAME="8.2标识_相等_别名 Coverage Results" MODIFIED="1579750827660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/对象引用-可变性-垃圾回收" />
+    <SUITE FILE_PATH="coverage/Fluent_python$2_4.coverage" NAME="2.4元组 Coverage Results" MODIFIED="1578893492841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/Fluent_python$2_7listsortsorted.coverage" NAME="2.7list的sort方法和sorted内置函数 Coverage Results" MODIFIED="1579834194785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/Fluent_python$13_3.coverage" NAME="13.3向量加法和乘法运算符 Coverage Results" MODIFIED="1580968552413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正确重载运算符" />
+    <SUITE FILE_PATH="coverage/Fluent_python$3_8.coverage" NAME="3.8集合论 Coverage Results" MODIFIED="1579042363924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典和集合" />
+    <SUITE FILE_PATH="coverage/Fluent_python$6_1.coverage" NAME="6.1重构策略模式 Coverage Results" MODIFIED="1579692121913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用一等函数实现设计模式" />
+    <SUITE FILE_PATH="coverage/Fluent_python$8_32.coverage" NAME="8.3默认作浅复制2 Coverage Results" MODIFIED="1580169433689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/对象引用-可变性-垃圾回收" />
+    <SUITE FILE_PATH="coverage/Fluent_python$9_8__slot__.coverage" NAME="9.8使用__slot__类属性节省内存空间 Coverage Results" MODIFIED="1580035660775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/符合Python风格的对象" />
+    <SUITE FILE_PATH="coverage/Fluent_python$4_5.coverage" NAME="4.5处理文本文件 Coverage Results" MODIFIED="1579751775002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本和字节序列" />
+    <SUITE FILE_PATH="coverage/Fluent_python$14_4.coverage" NAME="14.4生成器函数 Coverage Results" MODIFIED="1580989882707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可迭代的对象-迭代器-生成器" />
+    <SUITE FILE_PATH="coverage/Fluent_python$3_4.coverage" NAME="3.4映射的弹性键查询 Coverage Results" MODIFIED="1578899232138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典和集合" />
+    <SUITE FILE_PATH="coverage/Fluent_python$1_1Python.coverage" NAME="1.1Python风格的纸牌 Coverage Results" MODIFIED="1579093309616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python数据模型" />
+    <SUITE FILE_PATH="coverage/Fluent_python$2_8bisect.coverage" NAME="2.8用bisect来管理已排序的序列 Coverage Results" MODIFIED="1579947336089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/Fluent_python$4_6Unicode.coverage" NAME="4.6规范化Unicode字符串 Coverage Results" MODIFIED="1579069446273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本和字节序列" />
+    <SUITE FILE_PATH="coverage/Fluent_python$9_2.coverage" NAME="9.2再谈向量类 Coverage Results" MODIFIED="1579824215483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/符合Python风格的对象" />
+    <SUITE FILE_PATH="coverage/Fluent_python$14_3.coverage" NAME="14.3典型的迭代器 Coverage Results" MODIFIED="1580989510344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可迭代的对象-迭代器-生成器" />
+    <SUITE FILE_PATH="coverage/Fluent_python$1_2.coverage" NAME="1.2使用特殊方法 Coverage Results" MODIFIED="1578822191235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python数据模型" />
+    <SUITE FILE_PATH="coverage/Fluent_python$11_2Python.coverage" NAME="11.2Python喜欢序列 Coverage Results" MODIFIED="1580391923547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口-从协议到抽象基类" />
+    <SUITE FILE_PATH="coverage/Fluent_python$12_2.coverage" NAME="12.2多重继承 Coverage Results" MODIFIED="1580736664845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/继承的优缺点" />
+    <SUITE FILE_PATH="coverage/Fluent_python$5_5.coverage" NAME="5.5用户定义的可调用类型 Coverage Results" MODIFIED="1579333781054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/一等函数" />
+    <SUITE FILE_PATH="coverage/Fluent_python$4_4.coverage" NAME="4.4编解码问题 Coverage Results" MODIFIED="1579011820640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本和字节序列" />
+    <SUITE FILE_PATH="coverage/Fluent_python$5_2.coverage" NAME="5.2高阶函数 Coverage Results" MODIFIED="1579333231044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/一等函数" />
+    <SUITE FILE_PATH="coverage/Fluent_python$11_3.coverage" NAME="11.3使用猴子补丁在运行时实现协议 Coverage Results" MODIFIED="1580640490424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口-从协议到抽象基类" />
+    <SUITE FILE_PATH="coverage/Fluent_python$5_8.coverage" NAME="5.8获取关于参数的信息 Coverage Results" MODIFIED="1579335340874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/一等函数" />
+    <SUITE FILE_PATH="coverage/Fluent_python$7_4.coverage" NAME="7.4变量的作用域 Coverage Results" MODIFIED="1579694794383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Fluent_python$3_9dictset.coverage" NAME="3.9dict和set背后 Coverage Results" MODIFIED="1579048237324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典和集合" />
+    <SUITE FILE_PATH="coverage/Fluent_python$7_7.coverage" NAME="7.7实现简单的装饰器 Coverage Results" MODIFIED="1579749862283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Fluent_python$12_1.coverage" NAME="12.1子类内置化十分麻烦 Coverage Results" MODIFIED="1580735991151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/继承的优缺点" />
+    <SUITE FILE_PATH="coverage/Fluent_python$2_5.coverage" NAME="2.5对序列使用加和乘操作数 Coverage Results" MODIFIED="1579829511239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/Fluent_python$2_2.coverage" NAME="2.2列表推导和生成器表达式 Coverage Results" MODIFIED="1578893500127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/Fluent_python$9_3.coverage" NAME="9.3构造备选方法 Coverage Results" MODIFIED="1579827420840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/符合Python风格的对象" />
+    <SUITE FILE_PATH="coverage/Fluent_python$13_2.coverage" NAME="13.2一元运算符 Coverage Results" MODIFIED="1580912273483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正确重载运算符" />
+    <SUITE FILE_PATH="coverage/Fluent_python$11_6.coverage" NAME="11.6标准库的抽象基类 Coverage Results" MODIFIED="1580644794119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/接口-从协议到抽象基类" />
+    <SUITE FILE_PATH="coverage/Fluent_python$5_10.coverage" NAME="5.10支持函数式编程的包 Coverage Results" MODIFIED="1579335924842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/一等函数" />
+    <SUITE FILE_PATH="coverage/Fluent_python$7_6nonlocal.coverage" NAME="7.6nonlocal声明 Coverage Results" MODIFIED="1579694640275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Fluent_python$.coverage" NAME="字符问题 Coverage Results" MODIFIED="1579010737472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本和字节序列" />
+    <SUITE FILE_PATH="coverage/Fluent_python$10_2Vector.coverage" NAME="10.2Vector类第一版 Coverage Results" MODIFIED="1580171833686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/序列的修改散列和切片" />
+    <SUITE FILE_PATH="coverage/Fluent_python$10_5Vector.coverage" NAME="10.5Vector类第三版 Coverage Results" MODIFIED="1580912461411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/序列的修改散列和切片" />
+    <SUITE FILE_PATH="coverage/Fluent_python$13_6.coverage" NAME="13.6增量赋值运算符 Coverage Results" MODIFIED="1580984759695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正确重载运算符" />
+    <SUITE FILE_PATH="coverage/Fluent_python$2_1.coverage" NAME="2.1内置序列类型 Coverage Results" MODIFIED="1578832601602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/Fluent_python$test.coverage" NAME="test Coverage Results" MODIFIED="1579010725085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fluent_python$7_8.coverage" NAME="7.8标准库中的装饰器 Coverage Results" MODIFIED="1579699992792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Fluent_python$9_6Vector2D.coverage" NAME="9.6可散列的Vector2D Coverage Results" MODIFIED="1580031199740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/符合Python风格的对象" />
+    <SUITE FILE_PATH="coverage/Fluent_python$14_1.coverage" NAME="14.1单词序列 Coverage Results" MODIFIED="1580988256794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/可迭代的对象-迭代器-生成器" />
+    <SUITE FILE_PATH="coverage/Fluent_python$1_1Python__1_.coverage" NAME="1.1Python风格的纸牌 (1) Coverage Results" MODIFIED="1578834480427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python数据模型" />
+    <SUITE FILE_PATH="coverage/Fluent_python$5_7.coverage" NAME="5.7从定位参数到仅限关键字参数 Coverage Results" MODIFIED="1579334713505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/一等函数" />
+    <SUITE FILE_PATH="coverage/Fluent_python$UserDict.coverage" NAME="子类化UserDict Coverage Results" MODIFIED="1578899488850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典和集合" />
+    <SUITE FILE_PATH="coverage/Fluent_python$2_6.coverage" NAME="2.6序列的增量赋值 Coverage Results" MODIFIED="1579830990241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构" />
+    <SUITE FILE_PATH="coverage/Fluent_python$3_1.coverage" NAME="3.1泛映射类型 Coverage Results" MODIFIED="1578896287004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/字典和集合" />
+    <SUITE FILE_PATH="coverage/Fluent_python$4_2.coverage" NAME="4.2字节概要 Coverage Results" MODIFIED="1579011472861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本和字节序列" />
+    <SUITE FILE_PATH="coverage/Fluent_python$8_4.coverage" NAME="8.4函数的参数作为引用时 Coverage Results" MODIFIED="1579757217085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/对象引用-可变性-垃圾回收" />
+    <SUITE FILE_PATH="coverage/Fluent_python$6_12.coverage" NAME="6.1重构策略模式2 Coverage Results" MODIFIED="1579692482888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/使用一等函数实现设计模式" />
+    <SUITE FILE_PATH="coverage/Fluent_python$13_5.coverage" NAME="13.5众多比较运算符 Coverage Results" MODIFIED="1580980267037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正确重载运算符" />
+    <SUITE FILE_PATH="coverage/Fluent_python$7_82.coverage" NAME="7.8标准库中的装饰器2 Coverage Results" MODIFIED="1579700783251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数装饰器和闭包" />
+    <SUITE FILE_PATH="coverage/Fluent_python$9_5.coverage" NAME="9.5格式化显示 Coverage Results" MODIFIED="1580030231254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/符合Python风格的对象" />
+    <SUITE FILE_PATH="coverage/Fluent_python$Python.coverage" NAME="Python风格的纸牌 Coverage Results" MODIFIED="1578820369742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python数据模型" />
+    <SUITE FILE_PATH="coverage/Fluent_python$10_4Vector.coverage" NAME="10.4Vector类第二版 Coverage Results" MODIFIED="1580173830566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/序列的修改散列和切片" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+What's New
+It is powered by the PyTorch deep learning framework.
+Includes more features such as panoptic segmentation, densepose, Cascade R-CNN, rotated bounding boxes, etc.
+Can be used as a library to support different projects on top of it. We'll open source more research projects in this way.
+It trains much faster.
+See our blog post to see more demos and learn about detectron2.
+
+Installation
+See INSTALL.md.
+
+Quick Start
+See GETTING_STARTED.md, or the Colab Notebook.
+
+Learn more at our documentation. And see projects/ for some projects that are built on top of detectron2.
+
+Model Zoo and Baselines
+We provide a large set of baseline results and trained models available for download in the Detectron2 Model Zoo.
+
+License
+Detectron2 is released under the Apache 2.0 license.
+
+Citing Detectron
+If you use Detectron2 in your research or wish to refer to the baseline results published in the Model Zoo, please use the following BibTeX entry.
+
+@misc{wu2019detectron2,
+  author =       {Yuxin Wu and Alexander Kirillov and Francisco Massa and
+                  Wan-Yen Lo and Ross Girshick},
+  title =        {Detectron2},
+  howpublished = {\url{https://github.com/facebookresearch/detectron2}},
+  year =         {2019}
+}
