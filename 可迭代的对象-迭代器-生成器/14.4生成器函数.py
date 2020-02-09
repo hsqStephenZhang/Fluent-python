@@ -36,4 +36,4 @@ def show1():
 if __name__ == '__main__':
     s = Sentence("I love China.May god bless all of us")
     print(type(iter(s)))  # 内置的generator
-    print(type(show1),type(show1()))
+    print(type(show1),type(show1()))  # show1 是函数，但是show1()则是生成器
